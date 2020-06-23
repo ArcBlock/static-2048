@@ -1,3 +1,3 @@
-# static-demo-blocklet
+# static-2048
 
-Demo blocklet contains only static files
+This is a simple blocklet that only contains static files of a 2048 html5 game.
