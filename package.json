@@ -1,0 +1,35 @@
+{
+  "name": "static-demo-blocklet",
+  "title": "Static Demo",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.6.29",
+  "description": "Demo blocklet that shows how to serve a static html5 game with ABT Node",
+  "files": [
+    "app/",
+    "logo.png",
+    "blocklet.md",
+    "README.md"
+  ],
+  "blocklet": {
+    "group": "static",
+    "color": "primary",
+    "main": "app",
+    "logo": "logo.png",
+    "provider": "arcblock",
+    "admin_url": "",
+    "config_url": "",
+    "doc_url": "",
+    "public_url": "/"
+  },
+  "scripts": {},
+  "keywords": [
+    "demo",
+    "game",
+    "blocklet"
+  ],
+  "author": "wangshijun <wangshijun2010@gmail.com> (http://github.com/wangshijun)",
+  "license": "MIT",
+  "gitHead": "e5764f753181ed6a7c615cd4fc6682aacf0cb7cd"
+}
